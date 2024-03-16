@@ -1,6 +1,8 @@
 # Rectangular data chapter from Learning Data Science
 
-This is an unmodified (as per license below) copy of the original files at <https://github.com/DS-100/textbook>, as of commit `d30fde27`.
+This is an unmodified (as per license below - but see caveats) copy of the
+original files at <https://github.com/DS-100/textbook>, as of commit
+`d30fde27`.
 
 ## Learning Data Science
 
@@ -20,3 +22,10 @@ The contents of this book are licensed for free consumption under the following 
 [joey]: https://people.eecs.berkeley.edu/~jegonzal/
 [deb]: https://www.stat.berkeley.edu/~nolan/
 [preface]: /preface
+
+## Caveats
+
+In fact, breaking the letter but not the spirit of the license, there is
+a bug-fix in the `pandas_exercises.ipynb` and `sql_exercises.ipynb`
+notebooks, which otherwise break on import with current Pandas.  See those
+files for comment and detail.
