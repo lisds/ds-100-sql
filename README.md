@@ -26,6 +26,7 @@ The contents of this book are licensed for free consumption under the following 
 ## Caveats
 
 In fact, breaking the letter but not the spirit of the license, there is
-a bug-fix in the `pandas_exercises.ipynb` and `sql_exercises.ipynb`
-notebooks, which otherwise break on import with current Pandas.  See those
-files for comment and detail.
+a bug-fix in the `pandas_exercises.ipynb` and `sql_exercises.ipynb` notebooks,
+which otherwise break on import with current Pandas.  See those files for
+comment and detail, and [this
+issue](https://github.com/DS-100/textbook/issues/172) for my report.
